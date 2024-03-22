@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "C_VOL_UP",
+		"name": "C_VOL_UP",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
